@@ -31,7 +31,7 @@ python3 feature_evaluation.py
 
 Data Descriptions
 - `data/egonets/*.egonets` : A list of the user's friends
-    - userid: friends
+    - userid: friend1 friend2 friend3 ...
 - `data/features.txt` : User profiles
     - userid feature1 feature2 feature3 ...
 - `data/featureList.txt` : Descriptions of features
@@ -39,6 +39,6 @@ Data Descriptions
 
 Output File Descriptions
 - `list/friend_list.txt` : Friend-lists of all users
-    - userid friend1 friend2 friend 3 ...
+    - userid friend1 friend2 friend3 ...
 - `list/feature_value.txt` : Values of all features
     - feature value
