@@ -1,8 +1,6 @@
-# Output list/friend_list.txt
-
 import os
 
-friend_dict = {}    # key, value = (int)user: (list)friends
+friend_dict = {}    # (int)user: (list)friends
 
 egonets = sorted(os.listdir('data/egonets'))
 for file in egonets:
@@ -25,3 +23,5 @@ f = open(os.path.join(dir, 'friend_list.txt'), 'w+')
 for k in keys:
     f.write(str(k) + ' ' + ' '.join(str(i) for i in friend_dict[k]) + '\n')
 f.close()
+
+print('\nOutput \'%s\'\n' % os.path.join(dir, 'friend_list.txt'))
