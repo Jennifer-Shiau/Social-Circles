@@ -1,0 +1,158 @@
+education;type work;location;id
+education;school;id education;type
+languages;name last_name locale
+gender work;employer;id
+locale work;location;id
+education;type last_name location;name
+education;school;id locale
+languages;id
+languages;name
+gender languages;name work;end_date
+education;type last_name locale
+hometown;name location;name
+locale location;name work;start_date
+education;classes;id gender
+gender work;end_date work;start_date
+locale
+work;position;id
+languages;name last_name
+education;school;id education;year;id locale
+gender work;start_date
+first_name
+hometown;name locale
+last_name locale work;start_date
+gender locale
+education;school;name education;year;name locale
+last_name work;start_date
+work;employer;name work;end_date
+languages;name work;employer;id
+work;end_date
+gender location;id location;name
+gender
+education;concentration;name gender work;end_date
+education;concentration;id education;year;name first_name
+education;school;name locale
+name work;end_date
+education;school;name work;start_date
+education;concentration;name locale
+first_name work;end_date
+languages;id location;id location;name
+location;id location;name work;start_date
+education;concentration;id gender locale
+education;school;id languages;id
+education;concentration;id gender
+locale work;start_date
+education;year;id locale
+hometown;name work;end_date
+languages;name locale
+gender languages;id
+education;school;id education;year;id
+education;year;name work;employer;name
+gender languages;id last_name
+last_name locale work;end_date
+education;degree;id
+languages;id work;end_date work;start_date
+locale work;end_date work;start_date
+education;school;id gender
+locale work;employer;id work;start_date
+education;school;id work;end_date
+location;id location;name work;location;name
+education;concentration;id education;type
+work;employer;id
+hometown;name work;location;id
+education;school;name education;year;name
+education;type gender languages;id
+last_name location;name
+education;type education;year;name
+first_name gender location
+education;concentration;id locale
+hometown;id locale
+hometown;name
+last_name
+gender work;employer;name
+education;year;id last_name
+education;school;name education;year;id
+education;year;name first_name
+hometown;name languages;name
+last_name locale
+work;location;id
+education;year;name work;location;id
+education;year;name location;id location;name
+locale location;id
+location;name work;start_date
+hometown;name work;start_date
+education;type gender locale
+education;concentration;id
+education;school;name education;year;name gender
+education;type gender last_name
+work;end_date work;location;id
+education;type locale location;id
+education;year;name
+gender hometown;name
+education;type last_name
+education;school;id languages;name
+languages;id locale
+education;school;id work;start_date
+languages;name work;employer;name
+education;school;name education;type
+education;year;id gender
+education;year;name languages;name last_name
+gender work;location;id
+locale work;employer;id
+education;school;id locale work;end_date
+work;position;name
+education;type first_name gender
+location;id location;name
+first_name locale
+education;school;name gender work;end_date
+education;school;name languages;id
+education;type gender work;start_date
+gender locale work;end_date
+languages;name work;employer;name work;end_date
+education;concentration;id education;year;name
+education;degree;id education;type
+first_name gender
+location;id location;name work;end_date
+education;type hometown;name
+education;degree;id locale
+
+languages;name locale work;end_date
+education;type gender
+education;year;id
+education;school;name languages;name
+hometown;id
+education;type locale
+education;concentration;id languages;id
+education;school;name work;end_date
+work;employer;name
+education;school;name
+first_name work;position;id work;start_date
+education;school;id
+education;school;id gender locale
+education;school;id education;year;name
+languages;id last_name
+education;type education;year;id languages;name
+education;degree;id gender
+education;type
+work;start_date
+education;school;name education;year;id work;end_date
+gender locale work;employer;name
+last_name work;end_date
+work;employer;name work;start_date
+education;school;name gender work;start_date
+first_name work;location;name
+languages;name location;id
+education;school;name gender locale
+first_name gender location;name
+education;type education;year;id last_name
+education;school;id locale work;start_date
+education;concentration;id work;end_date
+languages;id work;employer;name
+education;year;name gender
+gender last_name
+education;year;id hometown;name
+education;year;id work;employer;name
+locale work;location;name
+education;concentration;id first_name
+locale location;id location;name
+education;school;name gender
