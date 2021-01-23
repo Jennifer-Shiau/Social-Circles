@@ -14,6 +14,7 @@
 0.3846	languages;id
 0.3448	education;type
 0.0000	education;degree;name
+0.0000	work;with;name
 0.0000	education;degree;id
 0.0000	education;concentration;name
 0.0000	education;concentration;id
@@ -23,12 +24,13 @@
 0.0000	education;classes;id
 0.0000	education;classes;from;name
 0.0000	education;classes;from;id
-0.0000	education;classes;description
 0.0000	id
-0.0000	work;with;name
+0.0000	education;classes;description
+0.0000	overlap
 0.0000	location
+0.0000	work;position;id
+0.0000	work;from;name
 0.0000	work;with;id
-0.0000	work;from;id
 0.0000	work;projects;with;name
 0.0000	work;projects;with;id
 0.0000	work;projects;start_date
@@ -39,8 +41,8 @@
 0.0000	work;projects;end_date
 0.0000	work;projects;description
 0.0000	work;position;name
-0.0000	work;position;id
-0.0000	work;from;name
+0.0000	birthday
+0.0000	work;from;id
 0.0000	work;employer;name
 0.0000	work;employer;id
 0.0000	work;description
@@ -48,7 +50,6 @@
 0.0000	political
 0.0000	name
 0.0000	middle_name
-0.0000	birthday
 -0.1398	last_name
 -0.3383	location;name
 -0.3383	location;id

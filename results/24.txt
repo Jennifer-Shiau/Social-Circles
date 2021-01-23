@@ -7,7 +7,7 @@
 0.2483	location;id
 0.0000	education;classes;with;id
 0.0000	education;with;name
-0.0000	work;with;id
+0.0000	work;with;name
 0.0000	education;classes;description
 0.0000	languages;name
 0.0000	languages;id
@@ -23,10 +23,11 @@
 0.0000	education;degree;id
 0.0000	education;concentration;name
 0.0000	education;concentration;id
-0.0000	work;with;name
+0.0000	overlap
 0.0000	location
 0.0000	middle_name
 0.0000	work;location;name
+0.0000	work;with;id
 0.0000	work;start_date
 0.0000	work;projects;with;name
 0.0000	work;projects;with;id
